@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/shake.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.9.aar/93f8f8599ae4b63665c63bd387e44478/res/anim/shake.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/cycle.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.9.aar/93f8f8599ae4b63665c63bd387e44478/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/shake.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.9.aar/93f8f8599ae4b63665c63bd387e44478/res/anim/shake.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/cycle.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.9.aar/93f8f8599ae4b63665c63bd387e44478/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

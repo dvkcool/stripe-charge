@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/xml/stub_material.xml",
+        "source": "/home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/bundles/debug/res/xml/stub_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/xml/stub_classic.xml",
+        "source": "/home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/bundles/debug/res/xml/stub_classic.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/xml/stub_classic.xml",
+        "source": "/home/dvk/Downloads/tipsi-stripe-master/example/node_modules/tipsi-stripe/android/build/intermediates/bundles/debug/res/xml/stub_classic.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/xml/stub_material.xml",
+        "source": "/home/dvk/Downloads/tipsi-stripe-master/example/node_modules/tipsi-stripe/android/build/intermediates/bundles/debug/res/xml/stub_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/xml/preferences.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

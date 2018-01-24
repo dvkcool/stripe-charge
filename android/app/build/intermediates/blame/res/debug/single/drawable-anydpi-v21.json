@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_amex_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_amex_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_diners_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_diners_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_error.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_error.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_visa.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_visa.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_discover.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_discover.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cvc_amex.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_cvc_amex.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cvc.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_cvc.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_add_black_32dp.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_add_black_32dp.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_discover_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_discover_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cvc_amex.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_cvc_amex.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_checkmark_tinted.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_checkmark_tinted.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_jcb.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_jcb.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_diners.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_diners.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_error_amex.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_error_amex.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_discover.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_discover.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_unknown.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_unknown.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_discover_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_discover_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_checkmark_tinted.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_checkmark_tinted.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_unknown.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_unknown.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_amex_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_amex_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_jcb.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_jcb.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_jcb_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_jcb_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_error.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_error.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_mastercard.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_mastercard.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_cvc.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_cvc.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_visa_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_visa_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_diners_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_diners_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_jcb_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_jcb_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_mastercard_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_mastercard_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_visa.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_visa.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_amex.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_amex.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_diners.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_diners.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_checkmark.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_checkmark.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_checkmark.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_checkmark.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_visa_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_visa_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_add_black_32dp.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_add_black_32dp.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_mastercard_template_32.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_mastercard_template_32.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_error_amex.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_error_amex.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_mastercard.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_mastercard.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_amex.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/drawable-anydpi-v21/ic_amex.xml"
+    }
+]

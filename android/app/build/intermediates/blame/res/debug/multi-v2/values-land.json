@@ -1,0 +1,140 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}

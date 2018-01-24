@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/dvk/nativeapp/stripe-charge/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

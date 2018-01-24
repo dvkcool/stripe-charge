@@ -1,0 +1,4 @@
+#Wed Jan 24 17:49:46 IST 2018
+base.0=/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

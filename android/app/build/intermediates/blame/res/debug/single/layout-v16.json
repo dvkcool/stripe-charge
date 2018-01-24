@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

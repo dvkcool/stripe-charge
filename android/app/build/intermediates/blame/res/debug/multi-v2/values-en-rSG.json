@@ -1,0 +1,92 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.6.aar/77c18b97666e9a90f71e263a109976b9/res/values-en-rSG/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.6.aar/77c18b97666e9a90f71e263a109976b9/res/values-en-rSG/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.6.aar/77c18b97666e9a90f71e263a109976b9/res/values-en-rSG/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.6.aar/77c18b97666e9a90f71e263a109976b9/res/values-en-rSG/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}

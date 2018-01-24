@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

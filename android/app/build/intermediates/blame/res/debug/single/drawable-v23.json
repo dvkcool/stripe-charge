@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

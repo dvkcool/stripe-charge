@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/card_input_widget.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/card_input_widget.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/masked_card_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/masked_card_view.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/menu_text_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/menu_text_view.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/activity_payment_methods.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_payment_methods.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/activity_shipping_flow.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_shipping_flow.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/masked_card_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/masked_card_view.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/card_input_widget.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/card_input_widget.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/select_shipping_method_widget.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/select_shipping_method_widget.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/activity_stripe.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_stripe.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/menu_text_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/menu_text_view.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/shipping_method_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/shipping_method_view.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/activity_enter_shipping_info.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_enter_shipping_info.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/masked_card_row.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/masked_card_row.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/payment_form_fragment.xml",
+        "source": "/home/dvk/Downloads/tipsi-stripe-master/example/node_modules/tipsi-stripe/android/build/intermediates/bundles/debug/res/layout/payment_form_fragment.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/masked_card_row.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/masked_card_row.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/activity_select_shipping_method.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_select_shipping_method.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/shipping_method_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/shipping_method_view.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/payment_form_fragment_two.xml",
+        "source": "/home/dvk/Downloads/tipsi-stripe-master/example/node_modules/tipsi-stripe/android/build/intermediates/bundles/debug/res/layout/payment_form_fragment_two.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/activity_select_shipping_method.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_select_shipping_method.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/activity_add_source.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_add_source.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/card_multiline_widget.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/card_multiline_widget.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/b6416eb09cd2240fc8fe04757c168976/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/activity_payment_methods.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_payment_methods.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/card_multiline_widget.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/card_multiline_widget.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/activity_enter_shipping_info.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_enter_shipping_info.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/payment_form_fragment_two.xml",
+        "source": "/home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/bundles/debug/res/layout/payment_form_fragment_two.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/country_autocomplete_textview.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/country_autocomplete_textview.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/add_address_widget.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/add_address_widget.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/activity_add_source.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_add_source.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/country_autocomplete_textview.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/country_autocomplete_textview.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/select_shipping_method_widget.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/select_shipping_method_widget.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/activity_shipping_flow.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_shipping_flow.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/payment_form_fragment.xml",
+        "source": "/home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/bundles/debug/res/layout/payment_form_fragment.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/activity_stripe.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/activity_stripe.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/add_address_widget.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/res/layout/add_address_widget.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/dvk/Downloads/tipsi-stripe-master/example/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/res/layout/abc_dialog_title_material.xml"
+    }
+]

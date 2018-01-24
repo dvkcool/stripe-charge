@@ -1,0 +1,301 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.6.aar/77c18b97666e9a90f71e263a109976b9/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.6.aar/fcb794af6e7288df82e6a9f0116c8ec2/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.6.aar/2cdc53b9b6320d913cfec8918573117b/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.6.aar/d503a49df23003ab2918e529673d196f/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.6.aar/d3f7a4b0ae22f937721301d2b0ce3786/AndroidManifest.xml:16:1-23:12
+MERGED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/176f2d6856e3900085ac863475724710/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:react-native:0.45.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.tipsi:CreditCardEntry:1.4.8.9] /root/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.9.aar/93f8f8599ae4b63665c63bd387e44478/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/3d543fef4417316c63347583413a0ffc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/4ab1e7009e325fb7c24b1900d286d630/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/e2a58717bc74e7a58bbe0ebd75cf81e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/d37840590ffffafc841f5a34b9d5cc3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/71cbf88d675c0335a2df9a0fff4b67ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/375c2d5dff055d78d333f97482a07267/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/2c55d5cabf6cf55c56a94e861e5fd85b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/48b39d4570fc84eb3229193723abdefb/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/e8e55b7a9551e890aac0eb503f6e1d5f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/8a964b8abfe163ecc80be887abe423b8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/7efb4edb552fc5e63d27fc3057fd24f8/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/82e6dcfbbdcb3c481c669e0b819edf22/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/ebee226585f82ea96b4e38968bd617d1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/f962516eee96990ab0fd80c082f57f65/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/829413630873347b33ec8be8ea04b10f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/be54043e9c4d7acdb6b226a6d35d248b/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/869798673786a5c695d668010631cefa/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:4:3-28
+		INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:3:3-26
+		INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.45.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.45.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.6.aar/77c18b97666e9a90f71e263a109976b9/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-wallet-10.2.6.aar/77c18b97666e9a90f71e263a109976b9/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.6.aar/fcb794af6e7288df82e6a9f0116c8ec2/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.6.aar/fcb794af6e7288df82e6a9f0116c8ec2/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.6.aar/2cdc53b9b6320d913cfec8918573117b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.6.aar/2cdc53b9b6320d913cfec8918573117b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.6.aar/d503a49df23003ab2918e529673d196f/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.6.aar/d503a49df23003ab2918e529673d196f/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.6.aar/d3f7a4b0ae22f937721301d2b0ce3786/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.6.aar/d3f7a4b0ae22f937721301d2b0ce3786/AndroidManifest.xml:17:5-43
+MERGED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:7:5-9:41
+MERGED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/030a26bb34c0370f0a1d638aef22c02e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/176f2d6856e3900085ac863475724710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/176f2d6856e3900085ac863475724710/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:react-native:0.45.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.45.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/0d5e7b425ea8b0b2522637160622e905/AndroidManifest.xml:20:5-44
+MERGED from [com.github.tipsi:CreditCardEntry:1.4.8.9] /root/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.9.aar/93f8f8599ae4b63665c63bd387e44478/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.tipsi:CreditCardEntry:1.4.8.9] /root/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.9.aar/93f8f8599ae4b63665c63bd387e44478/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/3d543fef4417316c63347583413a0ffc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/3d543fef4417316c63347583413a0ffc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/4ab1e7009e325fb7c24b1900d286d630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/4ab1e7009e325fb7c24b1900d286d630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/e2a58717bc74e7a58bbe0ebd75cf81e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/e2a58717bc74e7a58bbe0ebd75cf81e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/d37840590ffffafc841f5a34b9d5cc3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/d37840590ffffafc841f5a34b9d5cc3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/71cbf88d675c0335a2df9a0fff4b67ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/71cbf88d675c0335a2df9a0fff4b67ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/375c2d5dff055d78d333f97482a07267/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/375c2d5dff055d78d333f97482a07267/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/2c55d5cabf6cf55c56a94e861e5fd85b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/2c55d5cabf6cf55c56a94e861e5fd85b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/3ba1ab28909d21c1032b1adcab17f977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/48ceffc47faec400053867da2be950cc/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/48b39d4570fc84eb3229193723abdefb/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/48b39d4570fc84eb3229193723abdefb/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/e8e55b7a9551e890aac0eb503f6e1d5f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/fresco-1.0.1.aar/e8e55b7a9551e890aac0eb503f6e1d5f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/8a964b8abfe163ecc80be887abe423b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.0.1.aar/8a964b8abfe163ecc80be887abe423b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/7efb4edb552fc5e63d27fc3057fd24f8/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/7efb4edb552fc5e63d27fc3057fd24f8/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/ebee226585f82ea96b4e38968bd617d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.0.1.aar/ebee226585f82ea96b4e38968bd617d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/f962516eee96990ab0fd80c082f57f65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.0.1.aar/f962516eee96990ab0fd80c082f57f65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/829413630873347b33ec8be8ea04b10f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.0.1.aar/829413630873347b33ec8be8ea04b10f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/be54043e9c4d7acdb6b226a6d35d248b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /root/.gradle/caches/transforms-1/files-1.1/fbcore-1.0.1.aar/be54043e9c4d7acdb6b226a6d35d248b/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/869798673786a5c695d668010631cefa/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/869798673786a5c695d668010631cefa/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:13:5-33:19
+MERGED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-31:19
+MERGED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-31:19
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.6.aar/fcb794af6e7288df82e6a9f0116c8ec2/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-identity-10.2.6.aar/fcb794af6e7288df82e6a9f0116c8ec2/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.6.aar/2cdc53b9b6320d913cfec8918573117b/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.6.aar/2cdc53b9b6320d913cfec8918573117b/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.6.aar/d503a49df23003ab2918e529673d196f/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.6.aar/d503a49df23003ab2918e529673d196f/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.6.aar/d3f7a4b0ae22f937721301d2b0ce3786/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.6.aar/d3f7a4b0ae22f937721301d2b0ce3786/AndroidManifest.xml:19:5-21:19
+MERGED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:11:5-25:19
+MERGED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:11:5-25:19
+MERGED from [com.facebook.react:react-native:0.45.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.45.0] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.45.0.aar/6793bed3172d86454eab6bc2f1a8f7d0/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/7efb4edb552fc5e63d27fc3057fd24f8/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/7efb4edb552fc5e63d27fc3057fd24f8/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/82e6dcfbbdcb3c481c669e0b819edf22/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/82e6dcfbbdcb3c481c669e0b819edf22/AndroidManifest.xml:2:3-17
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/869798673786a5c695d668010631cefa/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/869798673786a5c695d668010631cefa/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:icon
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:theme
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.example.MainActivity
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:29:17-81
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:30:7-32:32
+	android:value
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:32:9-29
+	android:name
+		ADDED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:31:9-65
+activity#com.gettipsi.stripe.OpenBrowserActivity
+ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-16:75
+	android:launchMode
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-44
+	android:exported
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-67
+activity#com.gettipsi.stripe.RedirectUriReceiver
+ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:9-30:20
+	android:launchMode
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:13-44
+	android:exported
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:13-83
+	android:name
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-67
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:13-29:29
+action#android.intent.action.VIEW
+ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:25-66
+category#android.intent.category.DEFAULT
+ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:17-78
+	android:name
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:27-75
+data
+ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:17-50
+	android:scheme
+		ADDED from [:tipsi-stripe] /home/dvk/nativeapp/stripe-charge/node_modules/tipsi-stripe/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:23-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.6.aar/1fe80fb97fcef5fa6f280df8c511c042/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.6.aar/2cdc53b9b6320d913cfec8918573117b/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.6.aar/2cdc53b9b6320d913cfec8918573117b/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.6.aar/2cdc53b9b6320d913cfec8918573117b/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.6.aar/2cdc53b9b6320d913cfec8918573117b/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.6.aar/d3f7a4b0ae22f937721301d2b0ce3786/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.6.aar/d3f7a4b0ae22f937721301d2b0ce3786/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /root/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.6.aar/d3f7a4b0ae22f937721301d2b0ce3786/AndroidManifest.xml:20:20-65
+activity#com.stripe.android.view.AddSourceActivity
+ADDED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:12:9-16:20
+	android:windowSoftInputMode
+		ADDED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:15:13-55
+	android:theme
+		ADDED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:14:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:13:13-69
+activity#com.stripe.android.view.PaymentMethodsActivity
+ADDED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:17:9-20:20
+	android:theme
+		ADDED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:18:13-74
+activity#com.stripe.android.view.PaymentFlowActivity
+ADDED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:21:9-24:20
+	android:theme
+		ADDED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:23:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:6.0.0] /root/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/0a5fd790b03f29b814743a9ee433b133/AndroidManifest.xml:22:13-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/dvk/nativeapp/stripe-charge/android/app/src/main/AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/869798673786a5c695d668010631cefa/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/869798673786a5c695d668010631cefa/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/869798673786a5c695d668010631cefa/AndroidManifest.xml:26:13-58
