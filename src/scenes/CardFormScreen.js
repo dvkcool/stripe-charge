@@ -49,10 +49,11 @@ export default class CardFormScreen extends PureComponent {
               }).then((res) => {
                       // Showing response message coming from server updating records.
                       Alert.alert(""+res.status);
+                      this.setState({ loading: false});
+
                     }).catch((error) => {
                       console.error(error);
                     });
-      this.setState({ loading: false});
 
     } catch (error) {
       this.setState({ loading: false })

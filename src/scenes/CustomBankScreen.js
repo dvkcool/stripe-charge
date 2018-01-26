@@ -26,7 +26,28 @@ export default class CustomBankScreen extends PureComponent {
       this.setState({ loading: true, token: null })
 
       const token = await stripe.createTokenWithBankAccount(this.state.params)
-      this.setState({ loading: false, token })
+      this.setState({ token })
+      fetch('https://api.ascendancy10.hasura-app.io/charge', {
+                method: 'post',
+                headers: {
+                  'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                key: "sk_test_BQokikJOvBiI2HlWgH4olfQ2",
+                src: this.state.token,
+                amount: "50",
+                currency: "EUR"
+
+                })
+              }).then((res) => {
+                      // Showing response message coming from server updating records.
+                      Alert.alert(""+res.status);
+                      this.setState({ loading: false});
+
+                    }).catch((error) => {
+                      console.error(error);
+                    });
+      this.setState({ loading: false })
     } catch (error) {
       this.setState({ loading: false })
     }
