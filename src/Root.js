@@ -9,7 +9,7 @@ import CustomCardScreen from './scenes/CustomCardScreen'
 import CustomBankScreen from './scenes/CustomBankScreen'
 import CardTextFieldScreen from './scenes/CardTextFieldScreen'
 import testID from './utils/testID'
-import SourceScreen from './scenes/SourceScreen'
+
 
 stripe.init({
   publishableKey: 'pk_test_mTGHyef7YcBAZ9qIRcUAHrbO',
@@ -25,7 +25,6 @@ export default class Root extends PureComponent {
       CustomCardScreen,
       CustomBankScreen,
       CardTextFieldScreen,
-      SourceScreen,
     ].filter(item => item),
   }
 
