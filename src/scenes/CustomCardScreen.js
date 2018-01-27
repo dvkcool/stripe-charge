@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import { View, Text, StyleSheet } from 'react-native'
+import { View, Text, StyleSheet, Alert } from 'react-native'
 import stripe from 'tipsi-stripe'
 import Spoiler from '../components/Spoiler'
 import Button from '../components/Button'

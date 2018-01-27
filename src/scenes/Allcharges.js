@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import { View, Text, StyleSheet, Alert, ListView } from 'react-native'
+import { View, Text, StyleSheet, Alert, ListView, Image, ScrollView } from 'react-native'
 import stripe from 'tipsi-stripe'
 import Button from '../components/Button'
 import testID from '../utils/testID'
@@ -43,9 +43,6 @@ export default class Allcharges extends PureComponent {
 
     return (
       <View style={styles.container}>
-        <Text style={styles.header}>
-          Click to get last 10 transactions
-        </Text>
         <Button
           text="Click to get last 10 transactions"
           loading={loading}
@@ -57,12 +54,30 @@ export default class Allcharges extends PureComponent {
     )
   }
 }
+class PaidImg extends PureComponent{
+  render(){
+    if(this.props.paid){
+      return(
+        <View style ={this.props.style}>
+          <Image source={require('../assets/green.png')} />
+        </View>
+      );
+    }
+    else{
+      return(
+        <View style ={this.props.style}>
+          <Image source={require('../assets/red.png')} />
+        </View>
+      );
+    }
+  }
+}
 class Listcharges extends PureComponent{
   ListViewItemSeparator = () => {
   return (
     <View
       style={{
-        height: .5,
+        height: 2,
         width: "100%",
         backgroundColor: "#000",
       }}
@@ -73,16 +88,26 @@ class Listcharges extends PureComponent{
     if(this.props.press){
       return(
         <View>
+        <ScrollView>
+        <Text style={styles.header}>
+          Click on failed transaction to view its details.
+        </Text>
             <ListView
           dataSource={this.props.data}
           style={{paddingRight: 10,}}
           renderSeparator= {this.ListViewItemSeparator}
           renderRow={(rowData) =>
-            <View>
-              <Text> Transaction id:  {rowData.id}</Text>
+            <View style={{borderColor: '#DAFF7F', backgroundColor:'#FFFFFF', padding: 5}}>
+            <Text> Amount: {rowData.amount} {rowData.currency}</Text>
+            <PaidImg paid = {rowData.paid} style={{
+              justifyContent: 'flex-end',
+              alignItems: 'flex-end',}}/>
+            <Text> Transaction id:  {rowData.id} </Text>
+
             </View>
           }
           />
+          </ScrollView>
           </View>
       );
     }

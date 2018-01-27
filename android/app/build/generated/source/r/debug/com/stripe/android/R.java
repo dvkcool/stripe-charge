@@ -799,13 +799,13 @@ public final class R {
         public static final int notification_bg_normal = 0x7f02009c;
         public static final int notification_bg_normal_pressed = 0x7f02009d;
         public static final int notification_icon_background = 0x7f02009e;
-        public static final int notification_template_icon_bg = 0x7f0200b0;
-        public static final int notification_template_icon_low_bg = 0x7f0200b1;
+        public static final int notification_template_icon_bg = 0x7f0200b2;
+        public static final int notification_template_icon_low_bg = 0x7f0200b3;
         public static final int notification_tile_bg = 0x7f02009f;
         public static final int notify_panel_notification_icon_bg = 0x7f0200a0;
         public static final int simple_button_background = 0x7f0200a1;
-        public static final int tooltip_frame_dark = 0x7f0200ae;
-        public static final int tooltip_frame_light = 0x7f0200af;
+        public static final int tooltip_frame_dark = 0x7f0200b0;
+        public static final int tooltip_frame_light = 0x7f0200b1;
     }
     public static final class id {
         public static final int action0 = 0x7f0f0106;

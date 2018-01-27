@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import { View, Text, StyleSheet } from 'react-native'
+import { View, Text, StyleSheet, Alert } from 'react-native'
 import stripe from 'tipsi-stripe'
 import Spoiler from '../components/Spoiler'
 import Button from '../components/Button'
@@ -36,7 +36,7 @@ export default class CustomBankScreen extends PureComponent {
                 key: "sk_test_BQokikJOvBiI2HlWgH4olfQ2",
                 src: this.state.token,
                 amount: "50",
-                currency: "EUR"
+                currency: "usd"
 
                 })
               }).then((res) => {

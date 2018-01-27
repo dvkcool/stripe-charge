@@ -3814,13 +3814,13 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int avd_hide_password=0x7f020053;
-        public static final int avd_hide_password_1=0x7f0200b2;
-        public static final int avd_hide_password_2=0x7f0200b3;
-        public static final int avd_hide_password_3=0x7f0200b4;
+        public static final int avd_hide_password_1=0x7f0200b4;
+        public static final int avd_hide_password_2=0x7f0200b5;
+        public static final int avd_hide_password_3=0x7f0200b6;
         public static final int avd_show_password=0x7f020054;
-        public static final int avd_show_password_1=0x7f0200b5;
-        public static final int avd_show_password_2=0x7f0200b6;
-        public static final int avd_show_password_3=0x7f0200b7;
+        public static final int avd_show_password_1=0x7f0200b7;
+        public static final int avd_show_password_2=0x7f0200b8;
+        public static final int avd_show_password_3=0x7f0200b9;
         public static final int background_white=0x7f020055;
         public static final int btn_default_disabled_focused_holo_dark=0x7f020056;
         public static final int btn_default_disabled_holo_dark=0x7f020057;
@@ -3895,8 +3895,8 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f02009c;
         public static final int notification_bg_normal_pressed=0x7f02009d;
         public static final int notification_icon_background=0x7f02009e;
-        public static final int notification_template_icon_bg=0x7f0200b0;
-        public static final int notification_template_icon_low_bg=0x7f0200b1;
+        public static final int notification_template_icon_bg=0x7f0200b2;
+        public static final int notification_template_icon_low_bg=0x7f0200b3;
         public static final int notification_tile_bg=0x7f02009f;
         public static final int notify_panel_notification_icon_bg=0x7f0200a0;
         public static final int simple_button_background=0x7f0200a1;
@@ -3905,15 +3905,17 @@ containing a value of this type.
         public static final int spinner_disabled_holo_dark=0x7f0200a4;
         public static final int spinner_focused_holo_dark=0x7f0200a5;
         public static final int spinner_pressed_holo_dark=0x7f0200a6;
-        public static final int src_assets_menu=0x7f0200a7;
-        public static final int stp_card_form_back=0x7f0200a8;
-        public static final int stp_card_form_front=0x7f0200a9;
-        public static final int textfield_activated_holo_dark=0x7f0200aa;
-        public static final int textfield_default_holo_dark=0x7f0200ab;
-        public static final int textfield_disabled_focused_holo_dark=0x7f0200ac;
-        public static final int textfield_disabled_holo_dark=0x7f0200ad;
-        public static final int tooltip_frame_dark=0x7f0200ae;
-        public static final int tooltip_frame_light=0x7f0200af;
+        public static final int src_assets_green=0x7f0200a7;
+        public static final int src_assets_menu=0x7f0200a8;
+        public static final int src_assets_red=0x7f0200a9;
+        public static final int stp_card_form_back=0x7f0200aa;
+        public static final int stp_card_form_front=0x7f0200ab;
+        public static final int textfield_activated_holo_dark=0x7f0200ac;
+        public static final int textfield_default_holo_dark=0x7f0200ad;
+        public static final int textfield_disabled_focused_holo_dark=0x7f0200ae;
+        public static final int textfield_disabled_holo_dark=0x7f0200af;
+        public static final int tooltip_frame_dark=0x7f0200b0;
+        public static final int tooltip_frame_light=0x7f0200b1;
     }
     public static final class id {
         public static final int ALT=0x7f0f0067;
