@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import * as Animatable from 'react-native-animatable';
 import {Container, Left, Right, Card, CardItem  } from 'native-base';
 import { View,  ListView, Text} from 'react-native';
 export default class Allcharges extends Component {
