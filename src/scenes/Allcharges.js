@@ -8,7 +8,7 @@ export default class Allcharges extends Component {
   };
 
   componentDidMount() {
-    return fetch('https://api.bouncy64.hasura-app.io/charges/10', {
+    return fetch('https://api.ascendancy10.hasura-app.io/charges/10', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
