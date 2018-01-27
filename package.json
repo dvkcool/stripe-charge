@@ -17,6 +17,7 @@
     "set-stripe-url-type": "scripts/setUrlTypeForStripe.js"
   },
   "dependencies": {
+    "@expo/vector-icons": "^6.2.2",
     "babel-preset-expo": "^4.0.0",
     "native-base": "^2.3.7",
     "prop-types": "^15.5.10",

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import {Container, Left, Right, Card, CardItem  } from 'native-base';
 import { View,  ListView, Text} from 'react-native';
 export default class Allcharges extends Component {
+  static title = 'Last 10 charges/transactions';
  state = {
     isLoading: true,
   };
@@ -54,12 +55,12 @@ export default class Allcharges extends Component {
                 <Left/>
                 <Body/>
                 <Right>
-                  <Text color: '#99FF00'> Succes: <Text color: '#FF4600'> {rowddata.paid} </Text></Text>
+                  <Text style={{color: '#99FF00'}}> Succes: <Text style={{color: '#FF4600'}}> {rowddata.paid} </Text></Text>
                 </Right>
               </CardItem>
               <CardItem>
                 <Left>
-                  <Text> Charge id:   <Text color: '#99FF00'> {rowdata.id} </Text></Text>
+                  <Text> Charge id:   <Text style={{color: '#99FF00'}}> {rowdata.id} </Text></Text>
                 </Left>
               </CardItem>
               </Card>

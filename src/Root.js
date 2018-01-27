@@ -8,6 +8,7 @@ import CardFormScreen from './scenes/CardFormScreen'
 import CustomCardScreen from './scenes/CustomCardScreen'
 import CustomBankScreen from './scenes/CustomBankScreen'
 import CardTextFieldScreen from './scenes/CardTextFieldScreen'
+import Allcharges from './scenes/Allcharges'
 import testID from './utils/testID'
 
 
@@ -24,6 +25,7 @@ export default class Root extends PureComponent {
       CardFormScreen,
       CustomCardScreen,
       CustomBankScreen,
+      Allcharges,
       CardTextFieldScreen,
     ].filter(item => item),
   }
