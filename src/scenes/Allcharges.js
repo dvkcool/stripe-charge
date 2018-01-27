@@ -44,6 +44,25 @@ export default class Allcharges extends Component {
           style={{paddingRight: 10,}}
           renderRow={(rowData) =>
               <Card style={{flex: 1}}>
+              <CardItem>
+                <Left>
+                  <Text> Amount:  {rowdata.amount} </Text>
+                </Left>
+                <Body/>
+                <Right/>
+              </CardItem>
+              <CardItem>
+                <Left/>
+                <Body/>
+                <Right>
+                  <Text color: '#99FF00'> Succes: <Text color: '#FF4600'> {rowddata.paid} </Text></Text>
+                </Right>
+              </CardItem>
+              <CardItem>
+                <Left>
+                  <Text> Charge id:   <Text color: '#99FF00'> {rowdata.id} </Text></Text>
+                </Left>
+              </CardItem>
               </Card>
           }
           />
