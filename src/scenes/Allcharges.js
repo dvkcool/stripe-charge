@@ -1,16 +1,13 @@
 import React, { Component } from 'react';
 import * as Animatable from 'react-native-animatable';
-import {Container, Header, Left, Right, Content, Body, Thumbnail, Title,
-        Icon, Button, Card, CardItem  } from 'native-base';
-import { Image, Dimensions, TouchableHighlight, View, ActivityIndicator, ListView, Text} from 'react-native';
-import {AppLoading } from 'expo';
+import {Container, Left, Right, Card, CardItem  } from 'native-base';
+import { View,  ListView, Text} from 'react-native';
 export default class Allcharges extends Component {
  state = {
     isLoading: true,
   };
 
   componentDidMount() {
-
     return fetch('https://api.bouncy64.hasura-app.io/charges/10', {
       method: 'POST',
       headers: {
@@ -19,14 +16,12 @@ export default class Allcharges extends Component {
       body: JSON.stringify({
         key: "sk_test_BQokikJOvBiI2HlWgH4olfQ2"
       })
-
     })
-    .then((response) => response.json())
-    .then((responseJson) => {
+    .then((response) => {
     let ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
     this.setState({
       isLoading: false,
-      dataSource: ds.cloneWithRows(responseJson),
+      dataSource: ds.cloneWithRows(response.data),
     }, function() {});
     })
     .catch((error) => {
@@ -48,15 +43,8 @@ export default class Allcharges extends Component {
           dataSource={this.state.dataSource}
           style={{paddingRight: 10,}}
           renderRow={(rowData) =>
-            <Animatable.View
-            key={rowData.count}
-            animation={'bounce'}
-            delay={rowData.count * 100}
-            >
               <Card style={{flex: 1}}>
-                
               </Card>
-            </Animatable.View>
           }
           />
         </Container>);

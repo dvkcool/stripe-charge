@@ -43,7 +43,7 @@ export default class CardFormScreen extends PureComponent {
                 key: "sk_test_BQokikJOvBiI2HlWgH4olfQ2",
                 src: this.state.token,
                 amount: "50",
-                currency: "EUR"
+                currency: "USD"
 
                 })
               }).then((res) => {
@@ -69,7 +69,7 @@ export default class CardFormScreen extends PureComponent {
           Click to pay via Card
         </Text>
         <Text style={styles.instruction}>
-          Click button to show Card Form dialog.
+          Click button to pay 25 US Dollars.
         </Text>
         <Button
           text="Enter you card details and pay"
