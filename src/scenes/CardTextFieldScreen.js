@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import { KeyboardAvoidingView, View, Text, Platform, StyleSheet, Alert } from 'react-native'
+import { KeyboardAvoidingView, View, Text, Platform, StyleSheet, Alert, TextInput } from 'react-native'
 import dismissKeyboard from 'react-native/Libraries/Utilities/dismissKeyboard'
 import { PaymentCardTextField } from 'tipsi-stripe'
 import Spoiler from '../components/Spoiler'

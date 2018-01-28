@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import { View, Text, StyleSheet, Alert } from 'react-native'
+import { View, Text, StyleSheet, Alert, TextInput } from 'react-native'
 import stripe from 'tipsi-stripe'
 import Button from '../components/Button'
 import testID from '../utils/testID'
@@ -10,6 +10,7 @@ export default class CardFormScreen extends PureComponent {
   state = {
     loading: false,
     token: null,
+    amount: 50,
   }
 
   handleCardPayPress = async () => {
@@ -33,22 +34,27 @@ export default class CardFormScreen extends PureComponent {
         },
       })
         this.setState({token});
-
       fetch('https://api.ascendancy10.hasura-app.io/charge', {
                 method: 'post',
                 headers: {
                   'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                key: "sk_test_BQokikJOvBiI2HlWgH4olfQ2",
-                src: this.state.token,
-                amount: "50",
+                key: "sk_test_f0kDUYz8eNRGFCUnXSeIe5uj",
+                src: this.state.token.tokenId,
+                amount: this.state.amount,
                 currency: "USD"
 
                 })
-              }).then((res) => {
+              }).then((response) => response.json())
+              .then((res) => {
                       // Showing response message coming from server updating records.
-                      Alert.alert(""+res.status);
+                      if(res.status==200 || res.status=="succeeded"){
+                        Alert.alert("Payment successfull", "Transaction id:"+res.id);
+                      }
+                      else{
+                        Alert.alert("Payment Failure", ""+res.message)
+                      }
                       this.setState({ loading: false});
 
                     }).catch((error) => {
@@ -69,8 +75,24 @@ export default class CardFormScreen extends PureComponent {
           Click to pay via Card
         </Text>
         <Text style={styles.instruction}>
-          Click button to pay 25 US Dollars.
+          Enter the amount you want to pay in US Dollars.
         </Text>
+        <TextInput
+         placeholder="50"
+         onChangeText={ TextInputValue => this.setState({ amount : TextInputValue }) }
+         underlineColorAndroid='transparent'
+         style={
+         {
+             textAlign: 'center',
+             width: '90%',
+             marginBottom: 7,
+             height: 40,
+             borderWidth: 1,
+             borderColor: '#FF5722',
+             borderRadius: 5 ,
+         }
+       }
+       />
         <Button
           text="Enter you card details and pay"
           loading={loading}

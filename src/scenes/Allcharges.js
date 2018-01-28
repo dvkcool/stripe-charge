@@ -20,7 +20,7 @@ export default class Allcharges extends PureComponent {
                   'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                key: "sk_test_BQokikJOvBiI2HlWgH4olfQ2"
+                key: "sk_test_f0kDUYz8eNRGFCUnXSeIe5uj"
                 })
               })
               .then((response) => response.json())
@@ -60,6 +60,7 @@ class PaidImg extends PureComponent{
       return(
         <View style ={this.props.style}>
           <Image source={require('../assets/green.png')} />
+          <Text> Success </Text>
         </View>
       );
     }
@@ -67,6 +68,7 @@ class PaidImg extends PureComponent{
       return(
         <View style ={this.props.style}>
           <Image source={require('../assets/red.png')} />
+          <Text> Failed </Text>
         </View>
       );
     }
@@ -89,9 +91,6 @@ class Listcharges extends PureComponent{
       return(
         <View>
         <ScrollView>
-        <Text style={styles.header}>
-          Click on failed transaction to view its details.
-        </Text>
             <ListView
           dataSource={this.props.data}
           style={{paddingRight: 10,}}

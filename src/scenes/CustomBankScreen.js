@@ -33,15 +33,21 @@ export default class CustomBankScreen extends PureComponent {
                   'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                key: "sk_test_BQokikJOvBiI2HlWgH4olfQ2",
-                src: this.state.token,
-                amount: "50",
-                currency: "usd"
+                key: "sk_test_f0kDUYz8eNRGFCUnXSeIe5uj",
+                src: "tok_visa",
+                amount: this.state.amount,
+                currency: "USD"
 
                 })
-              }).then((res) => {
+              }).then((response) => response.json())
+              .then((res) => {
                       // Showing response message coming from server updating records.
-                      Alert.alert(""+res.status);
+                      if(res.status==200 || res.status=="succeeded"){
+                        Alert.alert("Payment successfull", "Transaction id:"+res.id);
+                      }
+                      else{
+                        Alert.alert("Payment Failure", ""+res.message)
+                      }
                       this.setState({ loading: false});
 
                     }).catch((error) => {

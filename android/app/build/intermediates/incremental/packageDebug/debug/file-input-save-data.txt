@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jan 28 01:39:26 IST 2018
+#Sun Jan 28 11:03:34 IST 2018
 5.base=/home/dvk/nativeapp/stripe-charge/android/app/build/intermediates/assets/debug
 22.path=lib/armeabi-v7a/libreactnativejnifb.so
 32.set=ASSET
