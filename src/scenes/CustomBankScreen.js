@@ -34,8 +34,8 @@ export default class CustomBankScreen extends PureComponent {
                 },
                 body: JSON.stringify({
                 key: "sk_test_f0kDUYz8eNRGFCUnXSeIe5uj",
-                src: "tok_visa",
-                amount: this.state.amount,
+                src: this.state.token.tokenId,
+                amount: "50",
                 currency: "USD"
 
                 })
@@ -109,7 +109,7 @@ export default class CustomBankScreen extends PureComponent {
           Click button to get token based on params.
         </Text>
         <Button
-          text="Pay with custom params"
+          text="Pay 50 usd with custom params"
           loading={loading}
           onPress={this.handleBankAccountPayPress}
           {...testID('customAccountButton')}
