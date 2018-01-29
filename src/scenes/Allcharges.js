@@ -14,14 +14,11 @@ export default class Allcharges extends PureComponent {
 
   handleCardPayPress = async () => {
           this.setState({ loading: true})
-      fetch('https://api.ascendancy10.hasura-app.io/charges/10', {
+      fetch('https://api.aphoristically63.hasura-app.io/charges/10', {
                 method: 'post',
                 headers: {
                   'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({
-                key: "sk_test_f0kDUYz8eNRGFCUnXSeIe5uj"
-                })
               })
               .then((response) => response.json())
               .then((responsejson) => {

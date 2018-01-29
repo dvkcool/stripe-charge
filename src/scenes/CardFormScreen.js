@@ -34,13 +34,12 @@ export default class CardFormScreen extends PureComponent {
         },
       })
         this.setState({token});
-      fetch('https://api.ascendancy10.hasura-app.io/charge', {
+      fetch('https://api.aphoristically63.hasura-app.io/charge', {
                 method: 'post',
                 headers: {
                   'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                key: "sk_test_f0kDUYz8eNRGFCUnXSeIe5uj",
                 src: this.state.token.tokenId,
                 amount: this.state.amount,
                 currency: "USD"

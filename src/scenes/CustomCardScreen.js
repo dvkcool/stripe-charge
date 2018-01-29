@@ -34,13 +34,12 @@ export default class CustomCardScreen extends PureComponent {
 
       const token = await stripe.createTokenWithCard(this.state.params)
       this.setState({error: undefined, token })
-      fetch('https://api.ascendancy10.hasura-app.io/charge', {
+      fetch('https://api.aphoristically63.hasura-app.io/charge', {
                 method: 'post',
                 headers: {
                   'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                key: "sk_test_f0kDUYz8eNRGFCUnXSeIe5uj",
                 src: this.state.token.tokenId,
                 amount: "50",
                 currency: "USD"
