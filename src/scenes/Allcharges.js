@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import { View, Text, StyleSheet, Alert, ListView, Image, ScrollView } from 'react-native'
+import { View, Text, StyleSheet, Alert, ListView, Image, ScrollView, TouchableOpacity } from 'react-native'
 import stripe from 'tipsi-stripe'
 import Button from '../components/Button'
 import testID from '../utils/testID'
@@ -14,7 +14,7 @@ export default class Allcharges extends PureComponent {
 
   handleCardPayPress = async () => {
           this.setState({ loading: true})
-      fetch('https://api.aphoristically63.hasura-app.io/charges/10', {
+      fetch('https://api.advance88.hasura-app.io/charges/10', {
                 method: 'post',
                 headers: {
                   'Content-Type': 'application/json'
@@ -82,25 +82,36 @@ class Listcharges extends PureComponent{
       }}
     />
   );
-}
+  }
+  GetStatus=(rowData)=>{
+    if(rowData.paid){
+      Alert.alert("Payment successful", "Payment was successful with\n transaction id: "+ rowData.id);
+    }
+    else{
+      Alert.alert("Payment failed", "Your payment failed as \n"+rowData.failure_message );
+    }
+  }
   render(){
     if(this.props.press){
       return(
         <View>
+	<Text> Click on any transaction to get its details, its failure code etc.</Text>
         <ScrollView>
             <ListView
           dataSource={this.props.data}
           style={{paddingRight: 10,}}
           renderSeparator= {this.ListViewItemSeparator}
           renderRow={(rowData) =>
-            <View style={{borderColor: '#DAFF7F', backgroundColor:'#FFFFFF', padding: 5}}>
-            <Text> Amount: {rowData.amount} {rowData.currency}</Text>
+            <TouchableOpacity onPress={this.GetStatus.bind(this, rowData)} >
+            <View style={{borderColor: '#DAFF7F', backgroundColor:'#FFFFFF', padding: 5, paddingTop: 5, paddingLeft: 5}}>
+            <Text> Amount:  <Text style={{color: '#F73131', size: 20}}>{rowData.amount} {rowData.currency}</Text>
+            </Text>
             <PaidImg paid = {rowData.paid} style={{
               justifyContent: 'flex-end',
               alignItems: 'flex-end',}}/>
             <Text> Transaction id:  {rowData.id} </Text>
-
             </View>
+            </TouchableOpacity>
           }
           />
           </ScrollView>

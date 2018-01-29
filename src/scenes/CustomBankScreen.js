@@ -27,7 +27,7 @@ export default class CustomBankScreen extends PureComponent {
 
       const token = await stripe.createTokenWithBankAccount(this.state.params)
       this.setState({ token })
-      fetch('https://api.aphoristically63.hasura-app.io/charge', {
+      fetch('https://api.advance88.hasura-app.io/charge', {
                 method: 'post',
                 headers: {
                   'Content-Type': 'application/json'

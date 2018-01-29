@@ -66,6 +66,8 @@ Paying via Bank account
 
 
 Gettings last 10 transaction, in which successful transaction is indicated woth a green colour indication and failed transaction is denoted by red indication. Also it contains the amount and transaction id of charge.
+
+Also if you want to check details of failure or success just click on any transaction to see the details.
 ![last10transaction](./demo/stripe5.gif)
 
 
