@@ -77,3 +77,12 @@ Also it contains a screen to check card details along with all necessary informa
 
 ![checking-card](./demo/stripe6.gif)
 
+## Modifying the app
+1. To modify the application, head over to src/Root.js to modify the main start page
+2. To modify any particular screen head over to src/scenes/ And modify the necessary page.
+
+## Got Struck or found a bug
+Feel free to mail me  at [divyanshukumarg@gmail.com](divyanshukumarg@gmail.com) or raise an issue in this repository.
+
+
+
