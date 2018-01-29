@@ -1,13 +1,27 @@
 
 # Stripe Payment App: HPDF Team task
-This project is made for the fulfillment of team task of Hasura HPDF.
 
-This is based on tipsi-stripe, react-native, native-base and react-navigation libraries.
+## What is it?
+This project is a payment portal app built using [Stripe](https://stripe.com/gb), an international payment gateway.
+
+This project is based on [tipsi-stripe](https://github.com/tipsi/tipsi-stripe), a community library for Sripe built for react-native.
+This app can be used to make a payment using international cards or authenticated bank accounts, however it lacks support for some Indian bank accounts, so in-order to reccieve the payments the vendor account should be in some international bank instead of any banks of India.
+
+## How it works
+This app takes amount and card details from user and generate a token using Stripe, which is used to charge a card with some amount.
+The previous transactions can also be seen with an option to view cause of failure of transaction.
+It can handle most of errors while payment.
 
 ## Installing apk
 You can download apk from [Google Drive](https://drive.google.com/open?id=1d7WRLniUEp1Yd7r16aq0Dlwjghcnu2TC) and install it to check directly.
 
 ## Cloning the project and running it yourself
+
+### Pre-requisites
+We assume that you have following things installed and have basic knowledge of it
+1. [npm](https://www.npmjs.com/) 
+2. [react-native cli](https://facebook.github.io/react-native/)
+3. [Android emulator](https://developer.android.com/studio/run/emulator.html)
 
 On the command prompt run the following commands
 
@@ -26,6 +40,9 @@ $ react-native bundle --platform android --dev false --entry-file index.android.
 $ react-native run-android
 ```
 
+## Want to build on top of this.
+Head over to src folder and modify the necessary files.
+Also you can employ us for some great interesting projects.
 
 ## Demo
 Payment via car which checks simultaneously if card is valid, if not the colour changes to red.
