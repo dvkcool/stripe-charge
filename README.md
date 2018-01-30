@@ -13,7 +13,7 @@ The previous transactions can also be seen with an option to view cause of failu
 It can handle most of errors while payment.
 
 ## Installing apk
-You can download apk from [Google Drive](https://drive.google.com/open?id=1d7WRLniUEp1Yd7r16aq0Dlwjghcnu2TC) and install it to check directly.
+You can download apk from [Google Drive](https://drive.google.com/open?id=1ozS1hb-w7_bxM40YxEywhPBKMJ1Cl_1S) and install it to check directly.
 
 ## Cloning the project and running it yourself
 
