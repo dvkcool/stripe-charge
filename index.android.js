@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native'
-import Root from './src/Root'
+import Login from './src/Login'
 
-AppRegistry.registerComponent('example', () => Root)
+AppRegistry.registerComponent('example', () => Login)
