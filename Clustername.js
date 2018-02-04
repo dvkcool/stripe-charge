@@ -1,1 +1,1 @@
-var name= 'advance88';
+var clustername= 'advance88';

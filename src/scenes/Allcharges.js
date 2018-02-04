@@ -3,7 +3,6 @@ import { View, Text, StyleSheet, Alert, ListView, Image, ScrollView, TouchableOp
 import stripe from 'tipsi-stripe'
 import Button from '../components/Button'
 import testID from '../utils/testID'
-
 export default class Allcharges extends PureComponent {
   static title = 'Last 10 transactions'
   state = {
